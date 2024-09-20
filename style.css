@@ -4,7 +4,7 @@
 }
 .header{
     height: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./travel_site_img/background.svg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./Travel_site_img//background.svg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -159,7 +159,7 @@ h1{
 }
 .banner{
     height: 80%;
-    background-image: url(./travel_site_img/Hexagon.svg);
+    background-image: url(./Travel_site_img//Hexagon.svg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
